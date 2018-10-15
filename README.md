@@ -4,6 +4,8 @@ I go to [High School of Telecommunications of Arts and Technology](http://www.hs
 I am part of the [SEP program](hstatsep.github.io)
 
 My **HSTAT email** is Anthonyb0634@hstat.org
+
+---
 ##### Schedule 
 1. _Algebra_
 * 8:10-8:52
